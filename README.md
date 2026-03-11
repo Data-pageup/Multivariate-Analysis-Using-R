@@ -1,7 +1,4 @@
-# In progress 
-
-
-## Difficulty in data collection part!!. Soon i willupdate the progress.
+# this is an academic projects. Performed on different topics. 
 
 
 
