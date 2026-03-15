@@ -10,7 +10,7 @@
 Each assignment is uploaded as a **PDF report**. If you need the R scripts or source code behind any analysis, feel free to reach out via email.
 
 ```
-📦 MVND-Assignments
+ MVND-Assignments
  ┣ 📄 Assignment_1_Goodness_of_Fit.pdf
  ┣ 📄 Assignment_2_ANOVA_Univariate_Multivariate.pdf
  ┣ 📄 Assignment_3_Multivariate_Regression.pdf
